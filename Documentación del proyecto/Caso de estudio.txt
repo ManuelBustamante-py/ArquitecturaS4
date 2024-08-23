@@ -1,0 +1,5 @@
+Sistema de Diagnóstico Médico Asistido por IA y Big Data:
+
+Descripción: Crear un sistema que analice grandes volúmenes de datos médicos y 
+utilice inteligencia artificial para asistir a los médicos en la identificación 
+de enfermedades y personalización de tratamientos.
